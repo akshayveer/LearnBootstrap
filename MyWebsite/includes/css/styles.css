@@ -28,6 +28,9 @@ Notes:	 Hand coded for Udemy.com
    #searchInput{
      width: 200px;
    }
+  .navbar-brand{
+    padding: 13px 15px;
+  }
 
 
 /* --------------------------------------
