@@ -89,7 +89,9 @@ body{
 .well {
   margin-top: 20px;
 }
-
+.tabbable img.thumbnail{
+  margin: 0 20px 10px 0;
+}
 /* --------------------------------------
    Media Queries
    -------------------------------------- */
