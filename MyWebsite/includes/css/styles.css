@@ -21,6 +21,9 @@ Notes:	 Hand coded for Udemy.com
   margin: 0 0 20px;
 }
 
+#inputMessage {
+  margin-bottom: 20px;
+}
 /* --------------------------------------
    Typography
    -------------------------------------- */
